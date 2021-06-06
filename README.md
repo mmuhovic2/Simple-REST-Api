@@ -1,2 +1,2 @@
-# SimpleCRUDApp
-CRUD App made using NodeJs and MongoDB
+# Simple REST Api
+REST Api made using NodeJs and MongoDB
